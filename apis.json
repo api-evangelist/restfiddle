@@ -1,0 +1,52 @@
+{
+    "name": "RESTFiddle",
+    "description": "<p>RESTFiddle is an Enterprise-grade API Management Platform for Teams. It helps you design, develop, test and release APIs.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/restfiddle-logo.png",
+    "tags": [
+        "clients",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/restfiddle\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RESTFiddle",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/restfiddle-logo.png",
+            "humanURL": "http:\/\/www.restfiddle.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/restfiddle-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.restfiddle.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.restfiddle.com\/feeds\/posts\/default?alt=rss"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/AnujaK\/restfiddle"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/restfiddle"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.restfiddle.com\/"
+        }
+    ]
+}
